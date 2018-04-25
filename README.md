@@ -1,4 +1,5 @@
-[![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)# fidelia-plugin-word-docker
+[![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+# fidelia-plugin-word-docker
 ## Overview
 The word plugin for agosense.fidelia consists of 2 components:
 * Javascript that is operated in the browser providing the user interface
